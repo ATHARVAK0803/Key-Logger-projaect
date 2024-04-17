@@ -1,6 +1,6 @@
 # Python Keylogger
 
-This project is a simple keylogger written in Python. It's designed for educational purposes to demonstrate how a keylogger could be built and how they operate.
+This project is a simple keylogger written in Python. It's designed demonstrate how a keylogger could be built and how they operate.
 
 ## Description
 
